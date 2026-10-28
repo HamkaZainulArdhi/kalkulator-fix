@@ -5,7 +5,7 @@ let toggleBtn = document.querySelector(".toggleBtn");
 let body = document.querySelector("body");
 
 let messages = [
-  "Fucking Goverment",
+  "Fuck Goverment",
   "Fuck Prabowo",
   "Fuck Gibran",
   "I Love You"
